@@ -24,7 +24,7 @@ source codefusionenv/bin/activate
 
 ### **3. Install Dependencies**
 ```sh
-pip install -r requirements.txtßd
+pip install -r requirements.txt
 ```
 
 ### **4. Apply Migrations**
