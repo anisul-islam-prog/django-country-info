@@ -13,18 +13,18 @@ cd django-country-info
 #### **On Windows:**
 ```sh
 python -m venv codefusionenv
-venv\Scripts\activate
+codefusionenv\Scripts\activate
 ```
 
 #### **On macOS/Linux:**
 ```sh
 python3 -m venv codefusionenv
-source venv/bin/activate
+source codefusionenv/bin/activate
 ```
 
 ### **3. Install Dependencies**
 ```sh
-pip install -r requirements.txt
+pip install -r requirements.txtßd
 ```
 
 ### **4. Apply Migrations**
